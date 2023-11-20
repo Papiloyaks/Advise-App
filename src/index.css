@@ -1,0 +1,81 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@100&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@100&family=Lilita+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@1,100&display=swap');
+
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@1,100&family=PT+Serif:wght@700&family=Poppins:wght@200&display=swap');
+
+
+  
+  @import url('https://fonts.googleapis.com/css2?family=Calligraffitti&display=swap');
+  
+
+  
+  @import url('https://fonts.googleapis.com/css2?family=Calistoga&display=swap');
+
+
+
+#myD{
+  margin-left: 30%;
+}
+#icon{
+  margin-left: 400px;
+  color: red;
+}
+
+#sect{
+  margin-top: 20px;
+  border-radius: 15px;
+  background-color: rgb(13, 29, 56);
+  color: rgb(245, 237, 239);
+  font-weight: 200;
+  font-size: 15px;
+  cursor: pointer;
+  height: 30px;
+  width: 100px;
+}
+
+.img{
+  margin-top: 20px;
+  margin-left: 15px;
+  color: rgb(142, 110, 110);
+}
+
+
+
+#h2{
+  color: rgba(194, 11, 11, 0.591);
+  font-size: 15px;
+}
+
+@media (max-width:700px) {
+  #myD{
+    margin-left: 0px;
+
+  }
+  #sect{
+    margin-left: 27  0px;
+   
+
+
+  }
+  #icon{
+    margin-left: 30px;
+    
+  }
+  
+}
